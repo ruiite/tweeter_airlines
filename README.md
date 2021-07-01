@@ -1,2 +1,2 @@
 # tweeter_airlines
-Setntiment classification was maden with lstm and achieved 77% accuracy.
+Sentiment classification was maden with lstm and achieved 77% accuracy.
